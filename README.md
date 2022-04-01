@@ -11,4 +11,4 @@
 Проект 2: Исследование надёжности заёмщиков     
 Имя файла: zayakin_p2_ scoring_borrowers.ipynb   
 Описание: Исследование (скорринг) надёжности заёмщиков банка    
-Дополнительно в html-формате:zayakin_p2_ scoring_borrowers.html
+Дополнительно в html-формате: zayakin_p2_ scoring_borrowers.html
