@@ -43,8 +43,8 @@
     
 *Проект 9: Рынок заведений общественного питания Москвы*   
 Имя файла: zayakin_p9_catering_establishments.ipynb    
-Презентация результатов: zayakin_p9_catering_establishments.pdf
-Описание: Анализ рынока заведений общественного питания Москвы   
+Презентация результатов: zayakin_p9_catering_establishments.pdf   
+Описание: Анализ рынка заведений общественного питания Москвы   
 Дополнительно в html-формате:zayakin_p9_catering_establishments.html      
     
 ### 2. Pet-проекты  
