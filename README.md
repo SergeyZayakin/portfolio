@@ -53,7 +53,6 @@
 Презентация результатов: zayakin_p10_dzen.pdf    
 Ссылка на дашборд: https://public.tableau.com/views/Yandex_Zen_16570862903120/sheet4?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 Описание: Выгрузка данных и создание дашборда для Яндекс Дзен   
-Дополнительно в html-формате: zayakin_p9_catering_establishments.html   
     
 ### 2. Pet-проекты  
 *Я у мамы аналитик*   
