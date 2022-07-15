@@ -38,7 +38,7 @@
 Описание: Анализ бизнес показателей развлекательного приложения Procrastinate Pro+    
 Дополнительно в html-формате: zayakin_p7__Procrastinate_Pro+.html  
 
-*Проект 8: Приоритизация гипотез и оценка результатов А/В-теста*
+*Проект 8: Приоритизация гипотез и оценка результатов А/В-теста*   
 Имя файла: zayakin_p8_AB-test.ipynb   
 Описание: Приоритизация гипотез и оценка результатов А/В-теста для интернет-магазина   
 Дополнительно в html-формате: zayakin_p8_AB-test.html    
@@ -47,7 +47,13 @@
 Имя файла: zayakin_p9_catering_establishments.ipynb    
 Презентация результатов: zayakin_p9_catering_establishments.pdf   
 Описание: Анализ рынка заведений общественного питания Москвы   
-Дополнительно в html-формате: zayakin_p9_catering_establishments.html      
+Дополнительно в html-формате: zayakin_p9_catering_establishments.html   
+
+*Проект 10: Дашборд для Яндекс Дзен*    
+Презентация результатов: zayakin_p10_dzen.pdf
+Ссылка на дашборд: https://public.tableau.com/views/Yandex_Zen_16570862903120/sheet4?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+Описание: Выгрузка данных и создание дашборда для Яндекс Дзен   
+Дополнительно в html-формате: zayakin_p9_catering_establishments.html   
     
 ### 2. Pet-проекты  
 *Я у мамы аналитик*   
