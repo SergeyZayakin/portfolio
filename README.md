@@ -33,20 +33,17 @@
 [Ссылка](https://star-origami-326.notion.site/6bccaa6957c6468a8ce1e9285e246103?v=e03d6dda45094bf6a247b898afda9e73)
 
 *Эксперименты с вероятностью*   
-Имя файла: zayakin_probability.ipynb  
 Описание: Игральные кости, орлянка, Колесо фортуны и русская рулетка - эксперименты с вероятностью   
-Дополнительно в html-формате: zayakin_probability.html     
+[Ссылка](https://github.com/SergeyZayakin/portfolio/blob/main/zayakin_probability.ipynb)     
     
 *Анализ данных ВОЗ о COVID-19*   
-Имя файла: COVID-19.ipynb  
 Описание: Анализ данных о заболеваемости смертности от COVID-19, публикуемых ВОЗ    
-Дополнительно в html-формате: COVID-19.html     
+[Ссылка](https://github.com/SergeyZayakin/portfolio/blob/main/COVID_19.ipynb)    
            
 *Анализ компаний-единорогов*   
-Имя файла: zayakin_unicorns_companies.ipynb  
 Описание: Отраслевой и страновой анализ компаний с суммарными инвестициями более 1 млрд долл. США   
-Дополнительно в html-формате: zayakin_unicorns_companies.html  
+[Ссылка](https://github.com/SergeyZayakin/portfolio/blob/main/zayakin_unicorns_companies.ipynb)  
    
 *Автоматизация написания кода с помощью микропада*   
 Инструкция по програмированию и прошивки микропада, файлы прошивки   
-https://github.com/SergeyZayakin/micro_pad
+[Ссылка](https://github.com/SergeyZayakin/micro_pad)
