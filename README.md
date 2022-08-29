@@ -1,4 +1,8 @@
-# portfolio
+# portfolio  
+
+# Аналтик данных
+Сергей Заякин
+
 ## Портфолио проектов, учебных и не только
     
 ### [0. Обо мне](https://github.com/SergeyZayakin/about-me/blob/main/README.md)  
