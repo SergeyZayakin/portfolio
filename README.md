@@ -43,7 +43,7 @@
     
 **4. Анализ данных ВОЗ о COVID-19**   
  Анализ данных о заболеваемости смертности от `COVID-19`, публикуемых ВОЗ.    
-[Ссылка](https://github.com/SergeyZayakin/portfolio/blob/main/COVID_19.ipynb)  
+[Ссылка](https://github.com/SergeyZayakin/portfolio/tree/main/COVID_19)  
 `Python`  `COVID-19`  `ВОЗ`
            
 **5. Анализ компаний-единорогов**   
