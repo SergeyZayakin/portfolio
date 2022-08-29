@@ -1,7 +1,7 @@
 **Анализ компаний "единорогов"**   
 `Python`  
 
-#№ Описание проекта 
+## Описание проекта 
 Источник: https://www.kaggle.com/datasets/deepcontractor/unicorn-companies-dataset   
    
 Задачи:   
