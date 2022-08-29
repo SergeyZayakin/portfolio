@@ -1,6 +1,7 @@
 # portfolio  
 
-# Аналтик данных
+# Аналитик данных   
+
 ## Сергей Заякин   
 [LinkedIn](https://www.linkedin.com/in/сергей-заякин-b521617a)    
 Telegram - @sergeyzayakin  
