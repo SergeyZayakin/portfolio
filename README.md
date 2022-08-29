@@ -24,8 +24,10 @@
 |     15.          |     [Анализ   базы данных сервиса для чтения книг по подписке](https://github.com/SergeyZayakin/portfolio/tree/main/Zayakin_SQL_final)                                                                                     |     `Интернет-сервисы`                            |     `Data   Analyst`    `Аналитик (универсал)`                                         |     `SQLAlchemy`       `PostgreSQL`                                                                                                                                                              |     Анализ   базы данных с информациейо книгах, издательствах, авторах, а также   пользовательские обзоры книг. Данные помогут сформулировать ценностное   предложение для нового продукта.                                                                            |   
 | 16. | [Анализ продуктовых метрик и юнит-экономики](https://github.com/SergeyZayakin/portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D1%8B%D0%B9_SQL.pdf) | `Интернет-сервисы`  | `Data Analyst` `Аналитик (универсал)` | `PostgreSQL` | Расчёт продуктовых метрик и юнит-экномики с использованием PostgreSQL  |
 | 17. | [Анализ базы данных StackOverflow](https://github.com/SergeyZayakin/portfolio/blob/main/SQL_%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_.pdf)           | `Интернет-сервисы`  | `Data Analyst` `Аналитик (универсал)` | `PostgreSQL` | Анализ базы данных StackOverflow  и помощью PostgreSQL                 |
-    
-### 2. Pet-проекты  
+   
+---   
+### 2. Pet-проекты   
+
 **1. Я у мамы аналитик**   
 Мой `Telegram-канал` об аналитике данных: идеи, книги, полезные находки (инстументы, источники данных) на тему анализа данных и смежные темы.   
 [Ссылка](https://t.me/momsanalytics)   
@@ -38,7 +40,7 @@
 
 **3. Эксперименты с вероятностью**   
 Игральные кости, орлянка, Колесо фортуны и русская рулетка - эксперименты с `вероятностью`.   
-[Ссылка](https://github.com/SergeyZayakin/portfolio/blob/main/zayakin_probability.ipynb)    
+[Ссылка](https://github.com/SergeyZayakin/portfolio/tree/main/zayakin_probability)    
 `Python`  `теория вероятности`
     
 **4. Анализ данных ВОЗ о COVID-19**   
@@ -48,7 +50,7 @@
            
 **5. Анализ компаний-единорогов**   
 Отраслевой и страновой анализ `стартапов` с суммарными инвестициями более 1 млрд долл. США.   
-[Ссылка](https://github.com/SergeyZayakin/portfolio/blob/main/zayakin_unicorns_companies.ipynb)   
+[Ссылка](https://github.com/SergeyZayakin/portfolio/tree/main/zayakin_unicorns_companies)   
 `Python`   `стартапы` `венчурные инвестции`    
    
 **6. Автоматизация написания кода с помощью микропада**   
