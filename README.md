@@ -1,7 +1,7 @@
 # portfolio
 ## Портфолио проектов, учебных и не только
     
-[Обо мне](https://github.com/SergeyZayakin/about-me/blob/main/README.md)   
+### [Обо мне](https://github.com/SergeyZayakin/about-me/blob/main/README.md)   
    
 ### 1. Учебные проекты  
    
