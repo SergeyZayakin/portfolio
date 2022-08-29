@@ -1,7 +1,9 @@
 # portfolio  
 
 # Аналтик данных
-Сергей Заякин
+## Сергей Заякин   
+[LinkedIn](https://www.linkedin.com/in/сергей-заякин-b521617a)    
+Telegram - @sergeyzayakin
 
 ## Портфолио проектов, учебных и не только
     
