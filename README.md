@@ -3,9 +3,10 @@
 # Аналитик данных   
 
 **Сергей Заякин**   
-[LinkedIn](https://www.linkedin.com/in/сергей-заякин-b521617a)    
-Telegram - @sergeyzayakin  
-[Обо мне](https://github.com/SergeyZayakin/about-me/blob/main/README.md) 
+- [Facebook](https://www.facebook.com/zayakin.sergey)
+- [LinkedIn](https://www.linkedin.com/in/сергей-заякин-b521617a)    
+- Telegram - @sergeyzayakin  
+- [Обо мне](https://github.com/SergeyZayakin/about-me/blob/main/README.md) 
 
 ## Портфолио проектов, учебных и не только
     
