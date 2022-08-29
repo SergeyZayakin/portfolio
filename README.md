@@ -3,11 +3,12 @@
 # Аналтик данных
 ## Сергей Заякин   
 [LinkedIn](https://www.linkedin.com/in/сергей-заякин-b521617a)    
-Telegram - @sergeyzayakin
+Telegram - @sergeyzayakin  
+[Обо мне](https://github.com/SergeyZayakin/about-me/blob/main/README.md) 
 
 ## Портфолио проектов, учебных и не только
     
-### [0. Обо мне](https://github.com/SergeyZayakin/about-me/blob/main/README.md)  
+
 ### [1. Учебные проекты](https://github.com/SergeyZayakin/portfolio/blob/main/README.md#1-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)    
 ### [2.Pet-проекты](https://github.com/SergeyZayakin/portfolio#2-pet-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)
    
