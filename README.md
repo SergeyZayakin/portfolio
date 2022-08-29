@@ -2,7 +2,7 @@
 
 # Аналитик данных   
 
-## Сергей Заякин   
+**Сергей Заякин**   
 [LinkedIn](https://www.linkedin.com/in/сергей-заякин-b521617a)    
 Telegram - @sergeyzayakin  
 [Обо мне](https://github.com/SergeyZayakin/about-me/blob/main/README.md) 
