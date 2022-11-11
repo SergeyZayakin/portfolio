@@ -95,6 +95,10 @@
 **3. Создание дашбора в Power BI и анализ грузоперевозок**   
 Создание дашборда на основании данных грузоперевозок.    
 [Ссылка](https://github.com/SergeyZayakin/portfolio/blob/main/%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B7%D0%BE%D0%BA/README.md)  
-`дашборд` `Power BI`  
+`дашборд` `Power BI`    
     
+**4. Разработка базы данных для учета ГСМ.**   
+[Ссылка на проект в Notion](https://star-origami-326.notion.site/SQL-7670375a16e0464c8322a21efc0bd9b0) !переход на другой ресурс!
+ 
+
 [Назад к оглавлению](https://github.com/SergeyZayakin/portfolio/blob/main/README.md#portfolio)
